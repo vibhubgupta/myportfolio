@@ -51,7 +51,7 @@ const Portfolio = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Live Project
+              Live
             </a>
             <a
               href="https://github.com/vibhubgupta/Delcon"
@@ -71,12 +71,12 @@ const Portfolio = () => {
           <h3>Facebook Clone</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://drive.google.com/file/d/1B5-h1nC0wITDP-frMPmNT4htNvzhD6P8/view?usp=sharing"
+              href="https://vibhubgupta.github.io/codeial-final-live/"
               className="btn"
               target="_blank"
               rel="noreferrer"
             >
-              Live Demo
+              Live
             </a>
             <a
               href="https://github.com/vibhubgupta/codeial-final-live"
@@ -85,6 +85,14 @@ const Portfolio = () => {
               rel="noreferrer"
             >
               GitHub
+            </a>
+            <a
+              href="https://drive.google.com/file/d/1B5-h1nC0wITDP-frMPmNT4htNvzhD6P8/view?usp=sharing"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Demo
             </a>
           </div>
         </article>
@@ -96,15 +104,20 @@ const Portfolio = () => {
           <h3>My Personal Portfolio</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/vibhubgupta"
+              href="https://vibhubgupta.github.io/myportfolio/"
+              className="btn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live
+            </a>
+            <a
+              href="https://github.com/vibhubgupta/myportfolio/"
               className="btn"
               target="_blank"
               rel="noreferrer"
             >
               Github
-            </a>
-            <a href="" className="btn" target="_blank" rel="noreferrer">
-              Live
             </a>
           </div>
         </article>
@@ -123,9 +136,9 @@ const Portfolio = () => {
             >
               Github
             </a>
-            <a href="" className="btn" target="_blank" rel="noreferrer">
+            {/* <a href="" className="btn" target="_blank" rel="noreferrer">
               Live
-            </a>
+            </a> */}
           </div>
         </article>
 
@@ -138,9 +151,9 @@ const Portfolio = () => {
             <a href="" className="btn" target="_blank" rel="noreferrer">
               Github
             </a>
-            <a href="" className="btn" target="_blank" rel="noreferrer">
+            {/* <a href="" className="btn" target="_blank" rel="noreferrer">
               Live
-            </a>
+            </a> */}
           </div>
         </article>
       </div>

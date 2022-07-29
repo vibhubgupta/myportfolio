@@ -6,8 +6,8 @@ import { BsDownload, BsFillTelephoneFill } from "react-icons/bs";
 const CTA = () => {
   return (
     <div className="cta">
-      <a href={CV} download className="btn">
-        Download CV &nbsp;
+      <a href={CV} download className="btn ">
+        My Resume &nbsp;
         <BsDownload className="cta__icon" />
       </a>
       <a href="#contact" className="btn btn-primary">
