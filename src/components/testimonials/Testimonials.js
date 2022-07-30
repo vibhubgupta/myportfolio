@@ -5,6 +5,7 @@ import CERT2 from "../../assets/certificate2.png";
 import CERT3 from "../../assets/certificate3.png";
 import CERT4 from "../../assets/certificate4.png";
 import CERT5 from "../../assets/certificate5.png";
+import CERT6 from "../../assets/certificate6.png";
 
 // import Swiper core and required modules
 import { Navigation, Pagination, Scrollbar } from "swiper";
@@ -51,6 +52,14 @@ const Testimonials = () => {
             <img src={CERT2} alt="" className="certificate__image" />
             <h3>ReactJS Full Stack Development</h3>
             <h5>Coding Ninjas</h5>
+          </div>
+        </SwiperSlide>
+
+        <SwiperSlide className="testimonial">
+          <div>
+            <img src={CERT6} alt="" className="certificate__image" />
+            <h3>Completion of Foundation level BSc degree courses</h3>
+            <h5>IIT, Madras</h5>
           </div>
         </SwiperSlide>
 
