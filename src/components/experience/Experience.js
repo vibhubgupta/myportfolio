@@ -17,7 +17,7 @@ const Experience = () => {
           <div className="grey__progressBar">
             <div
               className="progressBar__percentage"
-              style={{ width: "100%", background: "#385bff" }}
+              style={{ width: "100%" }}
             ></div>
           </div>
         </article>
@@ -28,7 +28,7 @@ const Experience = () => {
           <div className="grey__progressBar">
             <div
               className="progressBar__percentage"
-              style={{ width: "90%", background: "#4e79ff" }}
+              style={{ width: "90%" }}
             ></div>
           </div>
         </article>
@@ -39,7 +39,7 @@ const Experience = () => {
           <div className="grey__progressBar">
             <div
               className="progressBar__percentage"
-              style={{ width: "90%", background: "#4e79ff" }}
+              style={{ width: "90%" }}
             ></div>
           </div>
         </article>
@@ -50,7 +50,7 @@ const Experience = () => {
           <div className="grey__progressBar">
             <div
               className="progressBar__percentage"
-              style={{ width: "75%", background: "#4e97ff" }}
+              style={{ width: "75%" }}
             ></div>
           </div>
         </article>
