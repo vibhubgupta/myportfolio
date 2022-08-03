@@ -20,7 +20,7 @@ const Header = () => {
               "<strong> Ex-SDE Intern, CRIS | Research Intern, NIDM </strong>",
               "<strong>Chief Convener&#8594;DELCON'22 International Conference</strong>",
               "<strong>Head, Logistics&#8594;Moksha Inno'22</strong>",
-              "<strong>Vice-Chairperson&#8594;IEEE NSUT Student Branch</strong>",
+              "<strong>Vice-Chairperson&#8594;IEEE-NSUT Student Branch</strong>",
             ],
           }}
         />
