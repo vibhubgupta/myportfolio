@@ -13,12 +13,14 @@ const Header = () => {
           options={{
             autoStart: true,
             loop: true,
-            delay: 40,
+            delay: 20,
             strings: [
               "&lt;&gt; <span>Hello World</strong></span> 🙏&lt;&frasl;&gt;",
-              "<strong> EAT &#8594; SLEEP &#8594; CODE &#8594; REPEAT </strong>",
-              "<strong>Init &#8594;Commit&#8594;Add&#8594;Push</strong>",
-              "<strong>Build&#8594;Test&#8594;Deploy</strong>",
+              "<strong> Full Stack Developer | Django x React.js </strong>",
+              "<strong> Ex-SDE Intern, CRIS | Research Intern, NIDM </strong>",
+              "<strong>Chief Convener&#8594;DELCON'22 International Conference</strong>",
+              "<strong>Head, Logistics&#8594;Moksha Inno'22</strong>",
+              "<strong>Vice-Chairperson&#8594;IEEE NSUT Student Branch</strong>",
             ],
           }}
         />
@@ -30,7 +32,12 @@ const Header = () => {
             autoStart: true,
             loop: true,
             delay: 35,
-            strings: [],
+            strings: [
+              "&lt;&gt; <span>Hello World</strong></span> 🙏&lt;&frasl;&gt;",
+              "<strong> EAT &#8594; SLEEP &#8594; CODE &#8594; REPEAT </strong>",
+              "<strong>Init &#8594;Commit&#8594;Add&#8594;Push</strong>",
+              "<strong>Build&#8594;Test&#8594;Deploy</strong>",
+            ],
           }}
         /> */}
         <CTA />

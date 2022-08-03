@@ -45,6 +45,9 @@ const About = () => {
             </article>
           </div>
           <p>
+            &gt; I see myself as a versatile professional having explored many
+            different fields.
+            <br />
             &gt; Full Stack Developer with experience in ReactJS &amp; Django
             Frameworks.
             <br />
